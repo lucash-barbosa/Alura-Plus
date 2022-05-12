@@ -125,8 +125,11 @@ body {
     margin-top: 1em;
 }
 
-.lista__link a{
+.lista__link {
     margin-left:  1em;
+}
+
+.lista__link a{
     color: var(--branco-principal);
     text-decoration: none;
 }
@@ -139,6 +142,7 @@ body {
 
 .lista__link a:hover {
     color: var(--botao-azul);
+
 }
 
 .lista__link a:active {
