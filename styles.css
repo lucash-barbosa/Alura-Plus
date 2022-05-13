@@ -163,7 +163,7 @@ body {
     color: var(--cor-de-fundo);
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 900px) {
     .principal {
         background-image: url("img/Background-mobile.png") ;
         background-size: cover;
@@ -201,7 +201,7 @@ body {
 
     .container__botao {
         font-size: 30px;
-        width: 70vw;
+        width: 500px;
         height: 40px;
         margin: 50px auto;
         padding: 20px 030px 40px 30px;
