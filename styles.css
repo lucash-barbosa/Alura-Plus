@@ -130,6 +130,7 @@ body {
 
 .rodape__lista {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     list-style-type: none;
     margin-top: 1em;
@@ -177,7 +178,7 @@ body {
 
     .container__caixa {
         width: 80%;
-        margin: 5em 5em;
+        margin: auto;
 
     }
 
@@ -257,11 +258,6 @@ body {
     .rodape {
         width: 90%;
         margin: 2em;
-    }
-
-    .rodape__lista {
-        display: flex;
-        flex-wrap: wrap;
     }
 }
 
