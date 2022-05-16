@@ -62,6 +62,7 @@ body {
 
 .container__imagem {
     width: 70%;
+    min-width: 255px;
     max-width: 355px;
     margin: 1em 0 2em 0;
 }
