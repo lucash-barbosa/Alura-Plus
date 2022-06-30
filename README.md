@@ -8,5 +8,5 @@
 :book: Projeto desenvolvido durante o curso de prático com html e css Alura
 
 ## 📁 Acesso
-É possivel acessar o site <a href="https://alura-plus-3taipnso6-lucaslkj.vercel.app/">aqui</a>
+É possivel acessar o site <a href="https://alura-plus-5zrbein4c-lucaslkj.vercel.app/">aqui</a>
 ou <a href="https://github.com/Lucas-Henrique-Barbosa/AluraPlus/archive/refs/heads/main.zip">baixá-lo</a>
