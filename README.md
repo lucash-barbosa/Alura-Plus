@@ -5,7 +5,7 @@
                                                           
 ![Website](https://img.shields.io/website?down_color=lightgrey&style=flat-square&logo=appveyor&down_message=offline&label=STATUS&logo=STATUS&style=for-the-badge&up_message=FINALIZADO&url=https%3A%2F%2Fshields.io)
                                                                                    
-Projeto desenvolvido para exercitar html e css, criando um site fictício
+:book: Projeto desenvolvido durante o curso de prático com html e css Alura
 
 ## 📁 Acesso
 É possivel acessar o site <a href="https://alura-plus-3taipnso6-lucaslkj.vercel.app/">aqui</a>
